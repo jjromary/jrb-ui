@@ -1,0 +1,2 @@
+import{A as r}from"./index.dd2ed302.js";import"./index.64ef5e6f.js";import"./iframe.585c8495.js";import"./index.6b2edb9a.js";import"./jsx-runtime.70559ff8.js";const m={title:"Data display/Avatar",component:r,args:{src:"https://github.com/jjromary.png",alt:"Avatar user jos\xE9 romary"},argTypes:{src:{control:{type:"text"}}}},p={},c={args:{src:void 0}},e=["Primary","WithFallback"];export{p as Primary,c as WithFallback,e as __namedExportsOrder,m as default};
+//# sourceMappingURL=Avatar.stories.b0026018.js.map
